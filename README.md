@@ -1,0 +1,1 @@
+# Strawpoll-Spammer
