@@ -4,3 +4,4 @@ I looked for something like this a few months ago but all the ones I found invol
 
 Now making stuff like this is simple, hope you enjoy this!
 
+Delete proxies.txt if you wanna scrape
